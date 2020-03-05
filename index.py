@@ -8,11 +8,8 @@ print(x)
 for x in range(10):
     print ("This is ", x)
 
-adj = ["red", "big", "tasty"]
-fruits = ["apple", "banana", "cherry"]
-
-for x in adj:
-  for y in fruits:
+for x in "test":
+  for y in "123":
     print(x, y)
 
 
